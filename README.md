@@ -69,19 +69,6 @@ numpy==1.24.3
 pandas==2.0.3
 ```
 
-## 🎯 Removed Features
-
-To keep it simple, I've removed:
-- ❌ Knowledge gap analysis
-- ❌ Study statistics tracking
-- ❌ Difficulty assessment
-- ❌ OpenAI integration
-- ❌ Advanced quiz types
-- ❌ Progress tracking
-- ❌ Complex metadata extraction
-- ❌ Learning pattern analysis
-- ❌ Database configurations
-- ❌ Authentication/security features
 
 ## 🏗️ Core Components
 
